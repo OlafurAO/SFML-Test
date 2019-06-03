@@ -1,0 +1,11 @@
+﻿  Player.cpp
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SFML-Test.vcxproj -> C:\Users\Óli\Desktop\C++ Stuff\Projects\SFML-Test\x64\Debug\SFML-Test.exe
