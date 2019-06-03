@@ -74,8 +74,8 @@ class Bullet {
 		float weaponX;
 		float weaponY;
 
-		int positionX;
-		int positionY;
+		float positionX;
+		float positionY;
 		int playerDirection;
 		int bulletSpeed;
 

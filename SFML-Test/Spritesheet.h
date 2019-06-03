@@ -40,7 +40,7 @@ class Spritesheet {
 			window->draw(sprite);
 		}
 
-		void MoveSprite(int x, int y) {
+		void MoveSprite(float x, float y) {
 			sprite.setPosition(x, y);
 		}
 

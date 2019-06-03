@@ -45,8 +45,8 @@ class Player {
 
 		float positionX;
 		float positionY;
-		int startingCellIndex;
-		int playerDirection;
+		float startingCellIndex;
+		float playerDirection;
 		int cellX;
 		int cellY;
 

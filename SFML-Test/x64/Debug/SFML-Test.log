@@ -1,11 +1,68 @@
-﻿  Player.cpp
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+﻿  main.cpp
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(26): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(55): warning C4018: '>': signed/unsigned mismatch
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(100): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(102): warning C4101: 'multiplier': unreferenced local variable
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(26): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(55): warning C4018: '>': signed/unsigned mismatch
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(100): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(102): warning C4101: 'multiplier': unreferenced local variable
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  main.cpp
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   Generating Code...
-  SFML-Test.vcxproj -> C:\Users\Óli\Desktop\C++ Stuff\Projects\SFML-Test\x64\Debug\SFML-Test.exe
+     Creating library C:\Users\�li\Desktop\C++ Stuff\Projects\SFML-Test\x64\Debug\SFML-Test.lib and object C:\Users\�li\Desktop\C++ Stuff\Projects\SFML-Test\x64\Debug\SFML-Test.exp
+main.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl DebugShape::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@DebugShape@@EEBAXAEAVRenderTarget@sf@@VRenderStates@3@@Z)
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl tmx::QuadTreeNode::QuadTreeNode(unsigned short,class sf::Rect<float> const &)" (??0QuadTreeNode@tmx@@QEAA@GAEBV?$Rect@M@sf@@@Z) referenced in function "public: __cdecl tmx::QuadTreeRoot::QuadTreeRoot(unsigned short,class sf::Rect<float> const &)" (??0QuadTreeRoot@tmx@@QEAA@GAEBV?$Rect@M@sf@@@Z)
+main.obj : error LNK2019: unresolved external symbol "public: class std::vector<class tmx::MapObject *,class std::allocator<class tmx::MapObject *> > __cdecl tmx::QuadTreeNode::retrieve(class sf::Rect<float> const &,unsigned short &)" (?retrieve@QuadTreeNode@tmx@@QEAA?AV?$vector@PEAVMapObject@tmx@@V?$allocator@PEAVMapObject@tmx@@@std@@@std@@AEBV?$Rect@M@sf@@AEAG@Z) referenced in function "public: class std::vector<class tmx::MapObject *,class std::allocator<class tmx::MapObject *> > __cdecl tmx::QuadTreeRoot::retrieve(class sf::Rect<float> const &)" (?retrieve@QuadTreeRoot@tmx@@QEAA?AV?$vector@PEAVMapObject@tmx@@V?$allocator@PEAVMapObject@tmx@@@std@@@std@@AEBV?$Rect@M@sf@@@Z)
+main.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl tmx::QuadTreeRoot::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@QuadTreeRoot@tmx@@EEBAXAEAVRenderTarget@sf@@VRenderStates@4@@Z)
+main.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl tmx::LayerSet::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@LayerSet@tmx@@EEBAXAEAVRenderTarget@sf@@VRenderStates@4@@Z)
+main.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl tmx::MapLayer::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@MapLayer@tmx@@EEBAXAEAVRenderTarget@sf@@VRenderStates@4@@Z)
+C:\Users\�li\Desktop\C++ Stuff\external\zLib\zlibstat.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\�li\Desktop\C++ Stuff\Projects\SFML-Test\x64\Debug\SFML-Test.exe : fatal error LNK1120: 6 unresolved externals

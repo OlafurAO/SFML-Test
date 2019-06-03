@@ -1,45 +1,5 @@
-﻿  Player.cpp
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+﻿  main.cpp
 c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(26): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(55): warning C4018: '>': signed/unsigned mismatch
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(31): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
-          with
-          [
-              T=int
-          ]
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
-          with
-          [
-              T=int
-          ]
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(100): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(102): warning C4101: 'multiplier': unreferenced local variable
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\player.cpp(131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  main.cpp
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\spritesheet.h(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(26): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(55): warning C4018: '>': signed/unsigned mismatch
 c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(31): warning C4305: 'initializing': truncation from 'double' to 'float'
 c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
           with

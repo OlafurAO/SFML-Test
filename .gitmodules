@@ -1,0 +1,3 @@
+[submodule "SFML-Test/ExternalLibs/SFML-TMXloader"]
+	path = SFML-Test/ExternalLibs/SFML-TMXloader
+	url = https://github.com/fallahn/sfml-tmxloader
