@@ -1,5 +1,8 @@
 #pragma once
 
+#ifndef SPRITESHEET_H
+#define SPRITESHEET_H
+
 #include "SFML/Graphics.hpp"
 
 #include <fstream>
@@ -7,6 +10,7 @@
 
 class Spritesheet {
 	public:
+		Spritesheet() {}
 		Spritesheet(sf::RenderWindow* window, std::string spritesheet, int col, int rows) {			
 			this->window = window;
 			this->texture.loadFromFile(spritesheet);
@@ -56,3 +60,5 @@ class Spritesheet {
 		int col;
 		int rows;
 };
+
+#endif

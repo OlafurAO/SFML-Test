@@ -1,23 +1,23 @@
 ﻿  main.cpp
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(26): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(31): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\bullet.h(29): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=int
           ]
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=int
           ]
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(100): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(102): warning C4101: 'multiplier': unreferenced local variable
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(103): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(104): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(105): warning C4101: 'multiplier': unreferenced local variable
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\óli\desktop\c++ stuff\projects\sfml-test\sfml-test\weapon.h(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating code
-  0 of 236 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  0 of 490 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code

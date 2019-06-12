@@ -1,3 +1,9 @@
 [submodule "SFML-Test/ExternalLibs/SFML-TMXloader"]
 	path = SFML-Test/ExternalLibs/SFML-TMXloader
 	url = https://github.com/fallahn/sfml-tmxloader
+[submodule "SFML-Test/SFML-Test/External-Libs/tinyxml2"]
+	path = SFML-Test/SFML-Test/External-Libs/tinyxml2
+	url = https://github.com/leethomason/tinyxml2
+[submodule "SFML-Test/External-Libs/STP"]
+	path = SFML-Test/External-Libs/STP
+	url = https://github.com/edoren/STP

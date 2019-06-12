@@ -13,27 +13,69 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Level">
+      <UniqueIdentifier>{85a53169-8eac-499e-8431-940148ec9426}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Player">
+      <UniqueIdentifier>{f90f7080-9fe4-4464-b6c7-4da5b23d52d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Player">
+      <UniqueIdentifier>{e5c12f9f-5d3b-4a60-9a49-9a7493e6da4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Level">
+      <UniqueIdentifier>{f65013ea-97a4-4822-a614-d90a756c7738}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Weapon">
+      <UniqueIdentifier>{d8b6c257-d7a5-4e40-89e0-a746d45dfe96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\External">
+      <UniqueIdentifier>{4c73d7e9-2a77-4d0c-9f8c-08aa9528f5b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\External\tinyxml2">
+      <UniqueIdentifier>{9512178f-bbf4-40f4-8733-67473aedd599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\External">
+      <UniqueIdentifier>{d786d1a7-134a-46d3-b3ac-fa90cb536a89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\External\tinyxml2">
+      <UniqueIdentifier>{e8fcb8b1-6c32-44f1-a037-514f943588a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SFML-Test\External-Libs\tinyxml2\tinyxml2.cpp">
+      <Filter>Source Files\External\tinyxml2</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files\Level</Filter>
+    </ClCompile>
     <ClCompile Include="Player.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Player</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files\Level</Filter>
+    </ClInclude>
     <ClInclude Include="Player.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Spritesheet.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Weapon.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Player</Filter>
     </ClInclude>
     <ClInclude Include="Bullet.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Spritesheet.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="SFML-Test\External-Libs\tinyxml2\tinyxml2.h">
+      <Filter>Header Files\External\tinyxml2</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files\Level</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

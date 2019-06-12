@@ -1,13 +1,17 @@
 #pragma once
 
+#ifndef PLAYER_H
+#define PLAYER_H
+
 #include <iostream>
 
-#include "SFML/Graphics.hpp"
+#include <SFML/Graphics.hpp>
 #include "Spritesheet.h"
 #include "Weapon.h"
 
 class Player {
 	public:
+		Player() {};
 		Player(sf::RenderWindow* window, std::string playerImage, \
 			   int startingCellIndex, int positionX, int positionY);
 
@@ -54,3 +58,5 @@ class Player {
 		bool playerMoving;
 		bool playerArmed;
 };
+
+#endif

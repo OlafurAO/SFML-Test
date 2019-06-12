@@ -1,5 +1,8 @@
 #pragma once
 
+#ifndef BULLET_H
+#define BULLET_H
+
 class Bullet {
 	public:
 		Bullet(sf::RenderWindow* window, sf::Vector2u windowSize, \
@@ -82,3 +85,5 @@ class Bullet {
 		int yDirection;
 		int xDirection;
 };
+
+#endif

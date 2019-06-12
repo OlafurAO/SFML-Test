@@ -1,5 +1,8 @@
 #pragma once
 
+#ifndef WEAPON_H
+#define WEAPON_H
+
 #include "SFML/Graphics.hpp"
 #include "Player.h"
 #include "Bullet.h"
@@ -103,11 +106,11 @@ class Weapon {
 
 			if (playerDirection == 1) {
 				sprite.setOrigin(5.f, 1.f);
-				dY -= 190;
+				dY -= 180;
 			} 
 			else if (playerDirection == -1) {
 				sprite.setOrigin(15.f, 1.f);
-				dY -= 190;
+				dY -= 180;
 			}
 
 			float rotation = atan2(playerDirection * dY, playerDirection * dX);
@@ -175,3 +178,5 @@ class Weapon {
 
 		double fireRate;
 };
+
+#endif

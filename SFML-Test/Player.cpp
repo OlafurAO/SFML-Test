@@ -25,7 +25,7 @@ int positionX, int positionY) : spritesheet(window, playerImage, 16, 17) {
 }
 
 Player::~Player() {
-	delete window;
+	//delete window;
 	delete weapon;
 }
 
@@ -113,10 +113,8 @@ void Player::WeaponKickback() {
 		positionY -= kickback;
 	}
 
-	positionX += kickback * (playerDirection * -1);
-	spritesheet.MoveSprite(positionX, positionY);
-
-	cellX = 3;
+	//positionX += kickback * (playerDirection * -1);
+	//spritesheet.MoveSprite(positionX, positionY);
 }
 
 ////////////////////////////////////Weapon methods
